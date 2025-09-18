@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL here](https://your-solution-url.com)
-- Live Site URL: [live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/blog-preview-card-P92aSQ8TRw)
+- Live Site URL: [live site URL here](https://rafman0.github.io/blog-preview-card/)
 
 ## My process
 
@@ -89,3 +89,4 @@ Honestely, i didn't have any resource to help out, i did it all on my own, and i
 
 Yeah i'd like to Acknowledge myself, for being me, and for always pushing forward no matter what the challenge is!.
 So i'd like to say cheers to myself, and cheers to more professional coding days ahead!!.
+
