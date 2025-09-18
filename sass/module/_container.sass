@@ -1,0 +1,63 @@
+@use '../utilities/variable' as *
+@use '../utilities/extend' as *
+
+
+.container
+    @extend .contain
+    .container-content
+        @extend .display
+        @extend .box-s
+        @extend %fade-in
+     
+
+.home-img
+    border-radius: $bor-rad
+
+.btn-like
+    background-color: $yello
+    width: 26%
+    height: 25px
+    padding: 5px 14px
+    border-radius: 3px
+    margin: 15px 0 10px
+    color: $gray-950
+    font-style: medium
+    box-shadow: 2px 2px 12px #555
+
+
+.text
+    padding-bottom: 13px
+    color: $gray-500
+    font-weight: $heavy-weight
+    font-style: medium
+
+.text-link
+    text-decoration: none
+    font-weight: $heavy-weight
+    color: $gray-950
+    font-style: extra-bold
+    &:hover
+        color: darken($yello, 10%)
+
+
+.text-l
+    color: $gray-500
+    font-style: regular
+    padding: 2px
+    
+    
+.img-container
+    display: flex
+    justify-content: flex-start
+    .profile-img
+        margin-left: 0
+        padding: 14px 0 14px
+       
+
+.img-text
+    text-align: center
+    margin-top: 36px
+    margin-left: 12px
+    color: $gray-950
+
+
